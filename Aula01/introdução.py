@@ -29,7 +29,7 @@ Ex.: nota = 10
 
 Regras para declarações de variáveis:
 1ª - O nome deve ser único
-2ª - Nome não pode comaçecar com números
+2ª - Nome não pode começar com números
 3ª - Não pode haver espaço nos nomes (contornar da seguinte forma "nome_completo" ou "nomeCompleto")
 4ª - Não pode utilizar caracteres especiais Ex.: ç ~ ^ ? etc
 '''

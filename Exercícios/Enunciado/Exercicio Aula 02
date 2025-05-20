@@ -1,0 +1,39 @@
+1) Crie um programa que, dada uma string com uma frase informada pelo usuário (incluindo espaços em branco), conte:
+
+quantos espaços em branco existem na frase.
+quantas vezes aparecem as vogais a, e, i, o, u.
+
+
+2) Imprima o nome “Ctrl+Play” das seguintes formas:
+
+Vertical 
+
+C
+t
+r
+l
++
+P
+l
+a
+y
+
+
+Escada 
+
+C
+CT
+CTR
+CTRL
+CTRL+
+CTRL+P
+CTRL+PL
+CTRL+PLA
+CTRL+PLAY
+
+
+3) Faça um programa que recebe o nome completo do usuário e imprime:
+
+Só o primeiro nome;
+Sobrenome completo;
+Apenas o último nome.

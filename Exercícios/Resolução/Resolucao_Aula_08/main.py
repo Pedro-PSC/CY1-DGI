@@ -38,17 +38,37 @@ while isOn:
             match op:
                 case 1:
                     geo.AreaQuadrado()
+                case 2:
+                    geo.AreaCirculo()
+                case 3:
+                    geo.AreaTriangulo()
+                case 4:
+                    geo.VolumeCubo()
+                case 5:
+                    geo.VolumeEsfera()
+                case 6:
+                    geo.VolumeTrianguloPris()
+                case _:
+                    print('\nValor inválido! Tente novamente.\n')
+        
+        # Calculadora Estatística
+        case 3:
+            print('\nCalculadora Estatística\n\nEscolha qual tipo de operação deseja realizar:\n1 → Média\n2 → Moda\n')
+            op = int(input())
+
+            match op:
                 case 1:
-                    geo.AreaQuadrado()
-                case 1:
-                    geo.AreaQuadrado()
-                case 1:
-                    geo.AreaQuadrado()
-                case 1:
-                    geo.AreaQuadrado()
-                case 1:
-                    geo.AreaQuadrado()
-                
+                    esta.Media()
+                case 2:
+                    esta.Moda()
+                case _:
+                    print('\nValor inválido! Tente novamente.\n')
         
         case _:
             print('\nValor inválido! Tente novamente.\n')
+
+    print('\n\nCaso deseja realizar outro cálculo pressiona "ENTER" caso não deseja digite "fim"\n')
+    op = input().strip().lower()
+
+    if op == 'fim':
+        isOn = False

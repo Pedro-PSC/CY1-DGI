@@ -1,0 +1,14 @@
+Classe ContaBancaria
+Objetivo: Criar uma classe com métodos que modificam o estado (atributos) do objeto.
+
+Crie uma classe chamada *ContaBancaria*.
+
+No método __init__, defina os atributos *titular* e *saldo*, com o *saldo* começando em 0 por padrão.
+
+Crie um método chamado *depositar* que receba um valor e o adicione ao *saldo*.
+
+Crie um método chamado sacar que receba um valor e o subtraia do *saldo*, mas apenas se houver *saldo* suficiente. Se não houver, imprima uma mensagem de erro.
+
+Crie um método chamado *ver_saldo* que imprima o *saldo* atual.
+
+Crie uma instância da classe, deposite um valor, tente sacar um valor maior que o *saldo* e, por fim, verifique o *saldo*.

@@ -1,0 +1,29 @@
+1- Escreva um programa que leia um valor inteiro N (1 < N < 1000). Esse N é a quantidade de linhas de saída que serão apresentadas na execução do programa.
+
+Entrada:
+O arquivo de entrada contém um número inteiro positivo N.
+
+Saída:
+Imprima a saída conforme o exemplo fornecido. Um número, depois número² e depois o número³.
+
+Entrada |   SAÍDA
+5       |   1 1 1
+        |   2 4 8
+        |   3 9 27
+        |   4 16 64
+        |   5 25 125
+    
+
+2- Escreva um programa que repita a leitura de uma senha até que ela seja válida. Para cada leitura de senha incorreta informada, escrever a mensagem "Senha Invalida". Quando a senha for informada corretamente deve ser impressa a mensagem "Acesso Permitido" e o algoritmo encerrado. Considere que a senha correta é o valor 2002. 
+
+Entrada:
+A entrada é composta por vários casos de testes contendo valores inteiros.
+
+Saída:
+Para cada valor lido mostre a mensagem correspondente à descrição do problema.
+
+Entrada     |   SAÍDA
+2200        |   Senha Inválida.
+1020        |   Senha Inválida.
+2022        |   Senha Inválida.
+2002        |   Acesso Permitido.

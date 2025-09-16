@@ -1,0 +1,3 @@
+Meu Primeiro Arquivo
+Este é um arquivo de texto gerado por um código python
+Abrindo o arquivo pela segunda vez

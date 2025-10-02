@@ -1,8 +1,200 @@
-Cliente: Vou bem
-Chatbot: Eu também. Você gosta de filmes?
-Cliente: Eu gosto muito!
-Chatbot: Qual?
-Cliente: Gosto demais!
-Chatbot: Legal!
-Cliente: Quando você foi criado?
-Chatbot: Fui criado no dia 23/09/2025
+Cliente: Qual é a capital da França?
+Chatbot: A capital da França é Paris.
+Cliente: Quem pintou a Mona Lisa?
+Chatbot: Foi Leonardo da Vinci.
+Cliente: Qual é o maior planeta do sistema solar?
+Chatbot: É Júpiter.
+Cliente: Quem descobriu o Brasil?
+Chatbot: Foi Pedro Álvares Cabral, em 1500.
+Cliente: Qual é o rio mais longo do mundo?
+Chatbot: O rio Nilo, na África, é geralmente considerado o mais longo.
+Cliente: Qual é o país mais populoso do mundo?
+Chatbot: A China é o país mais populoso do mundo.
+Cliente: Quantos continentes existem?
+Chatbot: Existem sete continentes: África, América, Antártida, Ásia, Europa, Oceania e América do Sul.
+Cliente: Quem escreveu Dom Quixote?
+Chatbot: Foi Miguel de Cervantes.
+Cliente: Qual é a capital do Japão?
+Chatbot: A capital do Japão é Tóquio.
+Cliente: Em que ano o homem pisou na Lua?
+Chatbot: Em 1969, na missão Apollo 11.
+Cliente: Qual é a capital da Itália?
+Chatbot: A capital da Itália é Roma.
+Cliente: Quem foi Albert Einstein?
+Chatbot: Foi um físico famoso pela teoria da relatividade.
+Cliente: Qual é o menor país do mundo?
+Chatbot: É o Vaticano.
+Cliente: Quantos estados tem o Brasil?
+Chatbot: O Brasil tem 26 estados e 1 Distrito Federal.
+Cliente: Quem foi o primeiro presidente do Brasil?
+Chatbot: Foi Marechal Deodoro da Fonseca.
+Cliente: Qual é o idioma oficial da Argentina?
+Chatbot: É o espanhol.
+Cliente: Qual é o animal terrestre mais rápido?
+Chatbot: É o guepardo.
+Cliente: Quem escreveu O Pequeno Príncipe?
+Chatbot: Foi Antoine de Saint-Exupéry.
+Cliente: Qual é a moeda dos Estados Unidos?
+Chatbot: É o dólar americano.
+Cliente: Qual é a capital da Alemanha?
+Chatbot: A capital da Alemanha é Berlim.
+Cliente: Qual é a maior montanha do mundo?
+Chatbot: O Monte Everest, com cerca de 8.848 metros acima do nível do mar.
+Cliente: Qual é o maior oceano da Terra?
+Chatbot: O Oceano Pacífico.
+Cliente: Quantos planetas há no sistema solar?
+Chatbot: Oito planetas.
+Cliente: O que é a fotossíntese?
+Chatbot: É o processo pelo qual plantas e algumas bactérias usam luz, água e dióxido de carbono para produzir alimento (glicose) e oxigênio.
+Cliente: Quem escreveu "1984"?
+Chatbot: George Orwell.
+Cliente: Qual é a fórmula química da água?
+Chatbot: H₂O.
+Cliente: Quem compôs a 5ª sinfonia?
+Chatbot: Ludwig van Beethoven.
+Cliente: Qual é o elemento químico com símbolo O?
+Chatbot: Oxigênio.
+Cliente: O que é a moeda do Japão?
+Chatbot: O iene (¥).
+Cliente: Qual é a capital da Rússia?
+Chatbot: Moscou.
+Cliente: Qual é o animal símbolo da Austrália?
+Chatbot: O canguru é um dos símbolos mais associados à Austrália.
+Cliente: O que é a Internet?
+Chatbot: Uma rede global de computadores que trocam informações usando protocolos como TCP/IP.
+Cliente: Quem foi Nelson Mandela?
+Chatbot: Líder sul-africano contra o apartheid e presidente da África do Sul entre 1994 e 1999.
+Cliente: Qual é a velocidade aproximada do som no ar?
+Chatbot: Cerca de 343 metros por segundo a 20 °C.
+Cliente: Qual é o país com maior área do mundo?
+Chatbot: A Rússia.
+Cliente: O que significa E = m c²?
+Chatbot: É a equivalência entre massa e energia proposta por Albert Einstein.
+Cliente: Quem pintou "A Noite Estrelada"?
+Chatbot: Vincent van Gogh.
+Cliente: Qual é a língua mais falada no mundo?
+Chatbot: O mandarim (chinês).
+Cliente: O que significa "DNA"?
+Chatbot: Ácido desoxirribonucleico.
+Cliente: Qual órgão é responsável por bombear o sangue?
+Chatbot: O coração.
+Cliente: Quantos países existem no mundo?
+Chatbot: Atualmente são 195 considerados pela ONU (193 membros + 2 observadores).
+Cliente: O que foi a Revolução Francesa?
+Chatbot: Um movimento iniciado em 1789 que derrubou a monarquia e transformou a sociedade francesa.
+Cliente: Quem escreveu "Hamlet"?
+Chatbot: William Shakespeare.
+Cliente: Qual é a capital do Canadá?
+Chatbot: Ottawa.
+Cliente: O que é um ecossistema?
+Chatbot: Uma comunidade de organismos interagindo entre si e com o ambiente físico.
+Cliente: O que é inflação?
+Chatbot: Aumento geral e persistente dos preços de bens e serviços ao longo do tempo.
+Cliente: Qual é a unidade de medida da corrente elétrica?
+Chatbot: Ampere (A).
+Cliente: Quem é creditado com a invenção da lâmpada incandescente?
+Chatbot: Thomas Edison é o nome mais associado à invenção e à sua popularização.
+Cliente: Qual é o maior deserto do mundo?
+Chatbot: O deserto antártico é o maior; entre os desertos quentes, o Saara é o maior.
+Cliente: O que é um átomo?
+Chatbot: A menor unidade de um elemento químico, composta por núcleo e elétrons.
+Cliente: Quem foi a primeira mulher a ganhar um Prêmio Nobel?
+Chatbot: Marie Curie.
+Cliente: Qual é o principal gás responsável pelo efeito estufa?
+Chatbot: O dióxido de carbono (CO₂) é um dos principais responsáveis.
+Cliente: O que é a Bolsa de Valores?
+Chatbot: Um mercado organizado onde se negociam ações e outros ativos financeiros.
+Cliente: Quem descobriu a penicilina?
+Chatbot: Alexander Fleming.
+Cliente: Qual é o símbolo químico do ouro?
+Chatbot: Au.
+Cliente: Qual é a capital da Espanha?
+Chatbot: Madrid.
+Cliente: O que significa "NASA"?
+Chatbot: National Aeronautics and Space Administration (Administração Nacional da Aeronáutica e Espaço, dos EUA).
+Cliente: Qual é o maior órgão do corpo humano?
+Chatbot: A pele.
+Cliente: Qual é a velocidade da luz?
+Chatbot: Aproximadamente 299.792 km/s no vácuo.
+Cliente: Quem escreveu "Os Lusíadas"?
+Chatbot: Luís de Camões.
+Cliente: Dê um exemplo de fonte de energia renovável.
+Chatbot: Energia solar (outros exemplos: eólica, hidrelétrica).
+Cliente: O que é uma bactéria?
+Chatbot: Um microorganismo unicelular procarionte.
+Cliente: Quantos elementos existem atualmente na tabela periódica?
+Chatbot: 118 elementos conhecidos.
+Cliente: Quem liderou a Revolução Bolchevique na Rússia?
+Chatbot: Vladimir Lenin.
+Cliente: O que os irmãos Wright inventaram?
+Chatbot: O primeiro avião de voo controlado e motorizado.
+Cliente: Qual é o maior lago de água doce por área?
+Chatbot: O Lago Superior (por área); o Lago Baikal é o maior por volume.
+Cliente: O que é um eclipse solar?
+Chatbot: Quando a Lua fica entre a Terra e o Sol e bloqueia total ou parcialmente a luz solar.
+Cliente: Qual é o ingrediente principal do pão?
+Chatbot: Farinha (normalmente de trigo).
+Cliente: Quem foi Martin Luther King Jr.?
+Chatbot: Líder do movimento pelos direitos civis dos afro-americanos nos EUA.
+Cliente: Qual é a unidade de frequência?
+Chatbot: Hertz (Hz).
+Cliente: O que é democracia?
+Chatbot: Sistema político no qual o poder deriva do povo, geralmente por eleições.
+Cliente: Quem escreveu "Cem Anos de Solidão"?
+Chatbot: Gabriel García Márquez.
+Cliente: Qual é a capital da Austrália?
+Chatbot: Canberra.
+Cliente: O que é um vulcão?
+Chatbot: Uma abertura na crosta terrestre por onde magma, gases e cinzas podem ser expelidos.
+Cliente: Qual é o país mais populoso da África?
+Chatbot: Nigéria.
+Cliente: O que é aquecimento global?
+Chatbot: Aumento da temperatura média do planeta causado principalmente por emissões de gases do efeito estufa.
+Cliente: Quem é creditado pela invenção do telefone?
+Chatbot: Alexander Graham Bell é o nome mais associado à invenção do telefone.
+Cliente: Qual é o maior órgão interno do corpo humano?
+Chatbot: O fígado.
+Cliente: Qual é o metal mais leve?
+Chatbot: O lítio é o metal sólido mais leve.
+Cliente: O que é o número π (pi)?
+Chatbot: A razão entre a circunferência e o diâmetro de um círculo, aproximadamente 3,14159.
+Cliente: Qual é a capital da Índia?
+Chatbot: Nova Deli.
+Cliente: O que é biodiversidade?
+Chatbot: A variedade de espécies, genes e ecossistemas em uma região ou no planeta.
+Cliente: Quem pintou "Guernica"?
+Chatbot: Pablo Picasso.
+Cliente: Qual é a principal língua falada no Brasil?
+Chatbot: Português.
+Cliente: O que caracteriza um mamífero?
+Chatbot: Seres vertebrados com pelos e glândulas mamárias que produzem leite para os filhotes.
+Cliente: Qual é o esporte mais popular do mundo?
+Chatbot: O futebol.
+Cliente: Quem foi o primeiro humano no espaço?
+Chatbot: Yuri Gagarin, em 1961.
+Cliente: O que é um algoritmo?
+Chatbot: Um conjunto de instruções passo a passo para resolver um problema ou executar uma tarefa.
+Cliente: Qual é a capital da Argentina?
+Chatbot: Buenos Aires.
+Cliente: Qual é o símbolo químico do ferro?
+Chatbot: Fe.
+Cliente: Qual é a capital da Turquia?
+Chatbot: Ancara.
+Cliente: O que é uma estrela?
+Chatbot: Uma esfera de plasma que emite luz e calor devido à fusão nuclear em seu núcleo.
+Cliente: Quem compôs "A Flauta Mágica"?
+Chatbot: Wolfgang Amadeus Mozart.
+Cliente: Qual é a principal religião na Índia?
+Chatbot: O hinduísmo.
+Cliente: O que é um microrganismo?
+Chatbot: Um organismo muito pequeno, geralmente visível apenas com microscópio, como bactérias, vírus e fungos.
+Cliente: Qual é a maior cadeia de montanhas em extensão?
+Chatbot: Os Andes, que se estendem pela costa oeste da América do Sul.
+Cliente: Quem escreveu "O Senhor dos Anéis"?
+Chatbot: J. R. R. Tolkien.
+Cliente: Qual é a capital do México?
+Chatbot: Cidade do México.
+Cliente: O que é pressão atmosférica?
+Chatbot: A força exercida pelo peso da coluna de ar sobre uma área da superfície.
+Cliente: Qual é a maior floresta tropical do mundo?
+Chatbot: A Floresta Amazônica (Amazônia).
